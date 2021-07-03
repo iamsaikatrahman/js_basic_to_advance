@@ -1,0 +1,7 @@
+console.log("Saikat Rahman")
+console.log("Hello World")
+console.log(45)
+console.log("My id: " + 171+15+9504)
+console.log(171+15+9504)
+console.log(10+5)
+console.log("9"+9)
